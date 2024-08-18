@@ -1,10 +1,61 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: You-Xuan (Clara) Wu
 theme: ["PaperMod"]
+
+enableEmoji: true 
+enableRobotsTXT: true
 
 menu:
   main:
-    - name: 文章
-      url: archives
-      weight: 5
+    - name: About Me
+      url: aboutMe/
+      weight: 5 
+    - name: Research
+      url: research/
+      weight: 5  
+    - name: Interests
+      url: interests/
+      weight: 5  
+    - name: Activities
+      url: activities/
+      weight: 5  
+    - name: Side Projects
+      url: sideProjects/
+      weight: 5  
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  profileMode:
+    enabled: true
+    title: Hi There (〃'▽'〃)/
+    subtitle: I'm **Clara Wu**, or You-Xuan Wu. 
+      I'm an undergraduate majoring **Electrical Engineering** at National Taiwan University. 
+      I'm interested in Quantum Field Theory, Quantum Information Theory,
+      and also TCS fields like Cryptography and Complexity Theory.
+      I eagerly seek for research opportunities.
+    imageUrl: "images/ClaraWu_2.png"
+    imageTitle:
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: About Me
+        url: aboutMe
+      - name: Email
+        url: "mailto:clarawu0608@gmail.com"
+      - name: GitHub
+        url: "https://github.com/clarawu0608"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    
+      
+    
+

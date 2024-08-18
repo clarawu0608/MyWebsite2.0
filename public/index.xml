@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>You-Xuan (Clara) Wu</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on You-Xuan (Clara) Wu</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description> 📍 Taipei, Taiwan 🏡 Electrical Engineering, National Taiwan University ✉️ clarawu0608@gmail.com </description>
+    </item>
+    <item>
+      <title>Activities</title>
+      <link>http://localhost:1313/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interest &amp; Skill</title>
+      <link>http://localhost:1313/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interests/</guid>
+      <description>Electrical Engineering Quantum Information and Calculation Information Theory Error Correcting Code Quantum Electronic Design Automation
+Physics Quantum Mechanics Quantum Field Theory Particle Astrophysics
+Computer Science Cryptography Data Structure and Algorithm Anlysis Machine Learning
+Mathematics Linear Algebra Abstract Algebra
+Langruage C C++ python javascript typescript Golang Verilog</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side Projects</title>
+      <link>http://localhost:1313/sideprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sideprojects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
