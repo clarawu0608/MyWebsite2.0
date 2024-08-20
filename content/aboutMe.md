@@ -8,11 +8,19 @@ title: "About Me"
   </div>
   <div style="flex: 2; padding-left: 30px;">
     📍  Taipei, Taiwan <br/>
-    🏡  Electrical Engineering, National Taiwan University <br/>
-    ✉️  <a href="mailto:clarawu0608@gmail.com">clarawu0608@gmail.com</a>
+    ✉️  <a href="mailto:clarawu0608@gmail.com">clarawu0608@gmail.com</a> <br>
+    📄  <a href="mailto:clarawu0608@gmail.com">Download my resume</a>
   </div>
 </div>
 
 ---
 
+### Education
+
+Electrical Engineering, National Taiwan University <br/>
+2022 - present <br><br>
+Science Class, Taipei First Girl High School <br/>
+2019 - 2022 
+
+---
 

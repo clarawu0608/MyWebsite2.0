@@ -12,39 +12,38 @@
       <link>http://localhost:1313/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aboutme/</guid>
-      <description> 📍 Taipei, Taiwan 🏡 Electrical Engineering, National Taiwan University ✉️ clarawu0608@gmail.com </description>
+      <description>📍 Taipei, Taiwan ✉️ clarawu0608@gmail.com 📄 Download my resume Education Electrical Engineering, National Taiwan University 2022 - present Science Class, Taipei First Girl High School 2019 - 2022</description>
     </item>
     <item>
       <title>Activities</title>
       <link>http://localhost:1313/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/activities/</guid>
-      <description></description>
+      <description>NTULOC </description>
     </item>
     <item>
       <title>Interest &amp; Skill</title>
       <link>http://localhost:1313/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/interests/</guid>
-      <description>Electrical Engineering Quantum Information and Calculation Information Theory Error Correcting Code Quantum Electronic Design Automation
-Physics Quantum Mechanics Quantum Field Theory Particle Astrophysics
-Computer Science Cryptography Data Structure and Algorithm Anlysis Machine Learning
+      <description>Electrical Engineering Quantum Information and Calculation Quantum Electronic Design Automation Computer Science Cryptography Data Structure and Algorithm Anlysis Machine Learning
+Physics Quantum Physics Quantum Mechanics
 Mathematics Linear Algebra Abstract Algebra
-Langruage C C++ python javascript typescript Golang Verilog</description>
+Language C C++ python javascript typescript Golang Verilog</description>
     </item>
     <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description></description>
+      <description>qsyn </description>
     </item>
     <item>
       <title>Side Projects</title>
       <link>http://localhost:1313/sideprojects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sideprojects/</guid>
-      <description></description>
+      <description>Quantum Circuit of Multiple Algorithms VMKS Automatic Chess Board Smart Pill Box HAHA MAP </description>
     </item>
   </channel>
 </rss>

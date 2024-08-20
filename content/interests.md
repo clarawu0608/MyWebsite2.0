@@ -5,17 +5,10 @@ title: "Interest & Skill"
 ### Electrical Engineering
 
 Quantum Information and Calculation <br>
-Information Theory <br>
-Error Correcting Code <br>
-Quantum Electronic Design Automation
-
----
-
-### Physics
-
-Quantum Mechanics <br>
-Quantum Field Theory <br>
-Particle Astrophysics
+Quantum Electronic Design Automation <br>
+<!-- Comunication Theory <br> -->
+<!-- Information Theory <br> -->
+<!-- Error Correcting Code <br> -->
 
 ---
 
@@ -27,6 +20,15 @@ Machine Learning
 
 ---
 
+### Physics
+
+Quantum Physics <br>
+Quantum Mechanics
+<!-- Particle Astrophysics -->
+<!-- Quantum Field Theory <br> -->
+
+---
+
 ### Mathematics
 
 Linear Algebra <br>
@@ -34,7 +36,7 @@ Abstract Algebra
 
 ---
 
-### Langruage
+### Language
 
 C <br>
 C++ <br>
